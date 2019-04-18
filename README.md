@@ -1,2 +1,2 @@
 # Donifez
-[This is the link to my portfolia page](https://donifez.github.io/Donifez/."My Portfolio Page")
+[This is my portfolio](https://donifez.github.io/Donifez "My Page") 
