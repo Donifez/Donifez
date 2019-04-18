@@ -1,0 +1,45 @@
+body{
+	background-color: black;
+	color:white;
+	text-align: center;
+}
+h1:hover{
+  color: red;
+  opacity:3;
+  transition: 2s;
+}
+
+.boxes{
+padding: 10px;
+border-bottom: solid thin #aaa;
+
+}
+.boxes:hover{
+  font-size: 19px;
+  opacity:3;
+  transition: 2s;
+}
+.hov{
+  color:white;
+  font-size: 30px;
+
+}
+.hov:hover{
+  color:blue;
+  opacity:3;
+  transition: 2s;
+}
+@media screen and (max-width: 600px) {
+  body {
+    background-color: black;
+  }
+ 
+  .hov{
+  color:white;
+}
+.hov:hover{
+  color:blue;
+  opacity:3;
+  transition: 2s;
+}
+}
